@@ -1,11 +1,7 @@
 
 ### Olá, me chamo Fábio! Seja bem vindo ao meu github!!!
 
-Sou estudante de ciência da computação, formado em economia pela UFRPE. 
-Estou em transição de carreira. Trabalhei 11 anos como bancário e, no último ano, sai para me dedicar somente aos estudos da área de tecnologia.
-Atualmente estou me dedicando a estudar linguagens de programação como Python, Java e SQL.
-Gosto muito de programar e tenho um apreço especial por data science. Tenho realizado alguns projetos de machine learning que é uma das minhas paixões. Possuo conhecimento avançado em python, tanto para desenvolvimento como para dados, conheço bem o Power BI, e tenho um bom conhecimento em SQL. No momento venho fazendo curso da linguagem Java, um curso de engenharia de dados e um curso de ciência de dados e machine learning. 
-Sou um cara tranquilo, responsável com minhas tarefas, pontual com prazos e horários.
+Estudante de ciência da computação,formado em economia pela UFRPE. Me dedicando a estudar python, Java e SQL e projetos voltados à aprendizagem de machine learning. 
 
 <samp>
     <p align="center">
