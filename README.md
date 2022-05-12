@@ -1,7 +1,7 @@
 
 ### Olá, me chamo Fábio! Seja bem vindo ao meu github!!!
 
-Estudante de ciência da computação,formado em economia pela UFRPE. Me dedicando a estudar python, Java e SQL e projetos voltados à aprendizagem de machine learning. 
+Estudante de ciência da computação,formado em economia pela UFRPE. Me dedicando a estudar python, Java e SQL e projetos voltados ao machine learning. 
 
 <samp>
     <p align="center">
