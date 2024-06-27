@@ -19,11 +19,10 @@ Estudante de ciência da computação, trabalho como desenvolvedor JAVA na empre
 
 ```js
   let mySkills = {
-    💬 linguagens: 'python', 'Java', 'SQL',
-    🔨 ciencia_de_dados: 'machine learning', 'modelagem de dados', 'engenharia de dados', 'visualização de dados',
-    📦 bibliotecas: 'pandas', 'matplolib', 'numpy', 'seaborn', 'graphviz', 'sklearn', 'pycaret', 'streamlit',
-    🔧 ferramentas: 'jupyter notebook', 'git', 'vscode', 'pycharm', 'eclipse', 'power BI', 'docker', 'airflow', 'miniO', 'databricks', 'pentaho',
-    🌱 aprendizado_contínuo: 'java', 'python', 'data science', 'machine learning', 'engenharia de dados', 'power BI',
+    💬 linguagens: 'Python', 'Java', 'SQL', 'Typescript', 'Javascript', 'HTML',
+    🔨 frameworks: 'Django', 'Spring boot, 'Angular', 
+    🔧 ferramentas: 'jupyter notebook', 'git', 'vscode', 'pycharm', 'eclipse', 'docker', 'AWS', 'Azure',
+    🌱 aprendizado_contínuo: 'Java', 'Python', 'Inglês', 'SQL', 'Javascript', 'Typescript', 'Cloud computing', 'Devops'
     📈 melhoriaContinua: true
   }
 ```
