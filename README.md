@@ -21,7 +21,7 @@ Estudante de ciência da computação, trabalho como desenvolvedor JAVA na empre
   let mySkills = {
     💬 linguagens: 'Python', 'Java', 'SQL', 'Typescript', 'Javascript', 'HTML',
     🔨 frameworks: 'Django', 'Spring boot, 'Angular', 
-    🔧 ferramentas: 'jupyter notebook', 'git', 'vscode', 'pycharm', 'eclipse', 'docker', 'AWS', 'Azure',
+    🔧 ferramentas: 'git', 'vscode', 'pycharm', 'eclipse', 'docker', 'AWS', 'Azure',
     🌱 aprendizado_contínuo: 'Java', 'Python', 'Inglês', 'SQL', 'Javascript', 'Typescript', 'Cloud computing', 'Devops'
     📈 melhoriaContinua: true
   }
