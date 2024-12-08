@@ -1,7 +1,7 @@
 
 ### Olá mundo, me chamo Fábio! Seja bem vindo ao meu github!!!
 
-Estudante de ciência da computação, trabalho como desenvolvedor JAVA na empresa MV e sou formado em economia pela UFRPE. Me dedicando a estudar python, Java, SQL, AWS e projetos utilizando frameworks como Django, Spring boot e Angular. 
+ Trabalho como analista de sistemas na empresa Neurotech e sou formado em ciência econômicas pela UFRPE e em ciência da computação pela universidade cruzeiro do Sul. Me dedicando a estudar python, machine learning, Airflow e AWS. 
 
 <samp>
     <p align="center">
