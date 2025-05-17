@@ -1,7 +1,7 @@
 
 ### Olá mundo, me chamo Fábio! Seja bem vindo ao meu github!!!
 
- Trabalho como analista de sistemas na empresa Neurotech e sou formado em ciência econômicas pela UFRPE e em ciência da computação pela universidade cruzeiro do Sul. Me dedicando a estudar python, machine learning, Airflow e AWS. 
+ Trabalho como analista de sistemas na empresa Neurotech e sou formado em ciência econômicas pela UFRPE e em ciência da computação pela universidade cruzeiro do Sul. Me dedicando a estudar python, machine learning, Airflow, AWS e Kubernets. 
 
 <samp>
     <p align="center">
