@@ -1,7 +1,13 @@
 
-### Olá mundo, me chamo Fábio! Seja bem vindo ao meu github!!!
+### Olá, eu sou Fábio! Seja bem vindo ao meu github!!!
 
- Trabalho como analista de sistemas na empresa Neurotech e sou formado em ciência econômicas pela UFRPE e em ciência da computação pela universidade cruzeiro do Sul. Me dedicando a estudar python, machine learning, Airflow, AWS e Kubernetes. 
+  Formado em Ciência da Computação e Ciências Econômicas. Tenho experiência com
+  MLOps, trabalhando com Python, Kubernetes e AWS em ambientes de produção.
+  Também trago bagagem com Java e desenvolvimento backend.
+
+  Atualmente focado em aprofundar arquitetura de nuvem — estudando para a
+  certificação AWS Solutions Architect.
+
 
 <samp>
     <p align="center">
@@ -19,10 +25,11 @@
 
 ```js
   let mySkills = {
-    💬 linguagens: 'Python', 'Java', 'SQL', 'Typescript', 'Javascript', 'HTML',
-    🔨 frameworks: 'Django', 'Spring boot, 'Angular', 
-    🔧 ferramentas: 'git', 'vscode', 'pycharm', 'eclipse', 'docker', 'AWS', 'Azure',
-    🌱 aprendizado_contínuo: 'Java', 'Python', 'Inglês', 'SQL', 'Javascript', 'Typescript', 'Cloud computing', 'Devops'
-    📈 melhoriaContinua: true
-  }
+  💬 linguagens: 'Python', 'Java', 'SQL', 'Typescript', 'Javascript', 'HTML',
+  🔨 frameworks: 'Django', 'Spring Boot', 'Angular', 'FastAPI',
+  🔧 ferramentas: 'git', 'vscode', 'Docker', 'Kubernetes', 'AWS', 'Grafana', 'Backstage', 'Airflow', 'Databricks', 'Langfuse', 'Langflow',
+  🌱 aprendizado_contínuo: 'MLOps', 'Java', 'Python', 'Inglês', 'SQL', 'Javascript', 'Cloud computing', 'Devops',
+  📈 melhoriaContinua: true
+}
+
 ```
